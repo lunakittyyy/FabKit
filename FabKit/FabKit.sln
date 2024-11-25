@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabKit", "FabKit.csproj", "{825A6423-4E92-49EF-966A-34DC367F2594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{825A6423-4E92-49EF-966A-34DC367F2594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825A6423-4E92-49EF-966A-34DC367F2594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825A6423-4E92-49EF-966A-34DC367F2594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825A6423-4E92-49EF-966A-34DC367F2594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744C6165-66CC-4382-A3D2-01AE954B6BF3}
+	EndGlobalSection
+EndGlobal
